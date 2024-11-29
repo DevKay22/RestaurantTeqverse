@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: aqua;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
+    height: 2.6em;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.logo{
+    flex: 1;
+    background-color: yellow
+}
+
+.menu{
+    flex: 3;
+    background-color: green
+}
+
+.icons{
+    flex: 1;
+    background-color: red
+}
+
+.calltoaction{
+    
+        flex:1;
+        background-color: blue
+    
+}
